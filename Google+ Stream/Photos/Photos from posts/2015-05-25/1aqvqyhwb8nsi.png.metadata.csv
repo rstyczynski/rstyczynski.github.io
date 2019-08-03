@@ -1,0 +1,18 @@
+"title","description","url","license","image_views","creation_time.formatted","modification_time.formatted","geo_data.latitude","geo_data.longitude","geo_data_exif.latitude","geo_data_exif.longitude","tags","people.name","people.email","comments.comment","comments.user_id","comments.email","media_key","hex_photo_id","upload_ip","status","liking_user_ids","album_id","exif.camera_make","exif.camera_model","exif.cell_width","exif.cell_length"
+"CHF vs. PLN.png","Szanowni Państwo,
+
+w oficjalnej narracji oraz w różnych komentarzach unosi się twierdzenie że kredyt CHF jest tańszy od PLN. Hmm.... moim zdaniem jest to tak zwana legenda miejska wspierana potęgą autorytetów, lub po prostu wyrafinowana propaganda. W nauce jest to rozpoznany problem. Proszę poczytać o eksperymencie Milgrama, gdzie siła autorytetu wręcz razi prądem. Według Arystotelesa mucha miała mieć cztery nogi. Ten pogląd Arystotelesa był obowiązującym przez setki lat w nauce europejskiej, arabskiej i żydowskiej. Ojciec Public Relations - Edward Bernays instruuje że propagandę należy oprzeć na autorytecie. Wykonując zlecenie dla amerykańskich producentów wieprzowiny, używa lekarzy to rozprzestrzeniania opinii że wieprzowina jest zdrowa. Skutkiem jest umieszczenie na stałe jajecznicy na bekonie w kuchni amerykańskiej. Oto siła autorytetu.
+
+No ale zawsze musi się znaleźć ktoś, kto spróbuje lub niechcący zdoła tę siłę pokonać. Przeważnie jest to jakiś nieokrzesaniec nie świadom że autorytety wypowiedziały się już w danym temacie. Takim przykładem był brytyjski matematyk Clifford Cocks, pracujący w brytyjskiej centrali komunikacji (GCHQ). Nie wiedząc jakie to trudne, wręcz niemożliwe, opracował matematyczne podstawy dystrybucji kluczy kryptograficznych. Ot zdarza się. To czego szukano przez setki lat, Cocks opracował w kilka dni. Jest to fajnie opisane w Księdze Szyfrów (Simon Singh, 1999).
+
+Jakiś czas temu czytałem opracowanie niezależnego zespołu CARS ""Prawna i ekonomiczna analiza klauzuli ubezpieczenia niskiego wkładu własnego w umowach o kredyt hipoteczny"". Dokument wart przeczytania przez wszystkich zainteresowanych czym jest tak zwane ubezpieczenie niskiego wkładu własnego. Autorzy są tak bardzo niezależni, że aż stosują erystykę, przemilczenia i zniewalają siłą autorytetu podpisują się jako triada doktora, profesora i adwokata. Wielki plus, że na mój mail z krytyką modelu matematycznego, odpowiedzieli pozytywnie, dziękując za znalezienie błędu. Umiejętność przyjęcia krytyki świadczy o klasie naukowca. Wielki plus dla zespołu.
+
+W ramach odpowiedzi na analizę tak zwanego ubezpieczenia NWW, przygotowałem model porównujący oba kredyty. Znajduje się on tutaj w formie Excel + PDF z opisem: https://drive.google.com/open?id=0ByDcOdN-T_PVflp6NnFKSGg3blNNNk1Cb2VXUG9YQVVsTUdFWVZMNlpQUk4xOE5xWElfQjg&authuser=0
+
+No i bum! Okazało się że oba kredyty są takie same. Identyczne. Katastrofa! O rety! Co na to autorytety?
+
+Model oparty jest na realnych wartościach LIBOR i przykładowej marży wziętej z mBank, oraz WIBOR z 2% marży dla kredytu PLN. Jakoś tak to wygląda że oba kredyty są takie same. Oczywiście CHF fluktuuje, wije się, zmienia swą wartość, ale sumaryczny koszt obsługi jest taki sam. Przynajmniej dla pierwszych 100 rat z 360....
+
+Zapraszam do sprawdzenia czy model sprawdza się w przypadku  Państwa kredytu. Proszę także odnaleźć w sieci opracowanie CARS i zwrócić uwagę jak można zmanipulować teoretycznie niemanipulowalną matematykę.
+
+-Ryszard Styczynski","https://lh3.googleusercontent.com/-BDdng7qwSJM/VWNuZ5K_JXI/AAAAAAAACbc/iytYc--01QQNdIXxKyYzTTFQ7SRtrYWIACLABGAYYCw/s0-d/CHF%2Bvs.%2BPLN.png","","1883","May 25, 2015, 6:48:07 PM UTC","Feb 7, 2019, 12:11:00 AM UTC","0.0","0.0","0.0","0.0","","","","","","","","","","","","","","","0","0"
